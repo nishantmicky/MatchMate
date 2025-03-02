@@ -16,3 +16,6 @@ MatchMate is an iOS application developed in SwiftUI that simulates a matrimonia
 - This app also works in offline mode, cached data in core data is displayed when user is offline.
 - User can also accept/decline even without internet connection.
 - This app also handles error for API calls, database operation and network connectivity.
+- Screenshot: 
+![Simulator Screenshot - iPhone 16 Pro - 2025-03-02 at 22 32 03](https://github.com/user-attachments/assets/7052e7cb-862f-47a4-8f2d-94f6c7ef9cfb)
+
